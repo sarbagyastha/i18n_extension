@@ -1,3 +1,7 @@
+## [4.0.1] - 2021/05/19
+
+* Updated dependencies.
+
 ## [4.0.3] - 2021/04/14
 
 * Plural support for the `.PO` importer.
